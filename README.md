@@ -1,4 +1,4 @@
-### EXP NO: 06
+### EXP NO: 07
 
 ### .
 
@@ -9,12 +9,12 @@
 
 To develop a convolutional autoencoder for image denoising application.
 
-## Problem Statement and Dataset
+## <br><br><br><br><br><br><br><br><br>Problem Statement and Dataset
 Denoising autoencoders create a corrupted copy of the input by introducing some noise.These autoencoders take a partially corrupted input while training to recover the original undistorted input.The model learns a vector field for mapping the input data towards a lower dimensional manifold which describes the natural data to cancel out the added noise.In denoising autoencoders, we try to minimize the reconstruction error term.It tries to reconstruct the output from a corrupted or noisy input image.The dataset which is used is mnist dataset.
 
 ![image](https://user-images.githubusercontent.com/75235813/201460551-99b57c03-8dd9-4ec2-9d7c-1772acf980c4.png)
 ## Convolution Autoencoder Network Model
-![model NN](https://user-images.githubusercontent.com/75235293/201509467-dd107f8d-acc4-41a8-a9f0-d0494d7d2a0c.png)
+![Screenshot (480)](https://user-images.githubusercontent.com/75243072/201516542-e8f16568-e6df-4fc8-a8ef-bde98d427ebb.png)
 
 
 ## DESIGN STEPS
@@ -31,7 +31,7 @@ Pass test data for validating manually.
 ### Step 6:
 Plot the predictions for visualization.
 
-## PROGRAM
+## <br><br>PROGRAM
 ```
 Developed by: Kumaran B
 Reg No: 212220230026
@@ -114,7 +114,7 @@ for i in range(1, n + 1):
 plt.show()
 ```
 
-## OUTPUT
+## <br><br><br><br><br><br>OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
