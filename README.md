@@ -1,6 +1,6 @@
 ### EXP NO: 07
 
-### .
+### Date:14.11.2022
 
 # <p align = "center"> Convolutional Autoencoder for Image Denoising </p>
 
